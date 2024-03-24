@@ -46,6 +46,5 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
 
-- `OpenBioSeq` is an open-source project for supervised and self-supervised methods on bio-sequence datasets created by researchers in CAIRI AI LAB. We encourage researchers interested in bio-sequence research and applications to contribute to `OpenBioSeq`!
 - This repo is mainly based on [OpenMixup](https://github.com/Westlake-AI/openmixup), and borrows the architecture design and part of the code from [MMSelfSup](https://github.com/open-mmlab/mmselfsup) and [MMClassification](https://github.com/open-mmlab/mmclassification).
 
