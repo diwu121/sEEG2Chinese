@@ -1,13 +1,8 @@
-# OpenBioSeq
+# Acoustic inspired brain-to-sentence decoder for logosyllabic language
 [![PyPI](https://img.shields.io/pypi/v/OpenBioSeq)](https://pypi.org/project/OpenBioSeq)
 [![license](https://img.shields.io/badge/license-Apache--2.0-%23B7A800)](https://github.com/Westlake-AI/OpenBioSeq/blob/main/LICENSE)
 ![open issues](https://img.shields.io/github/issues-raw/Westlake-AI/OpenBioSeq?color=%23FF9600)
 [![issue resolution](https://img.shields.io/badge/issue%20resolution-1%20d-%23009763)](https://github.com/Westlake-AI/OpenBioSeq/issues)
-
-**News**
-
-* OpenBioSeq v0.1.1 is released, which supports classification and regression tasks on bio-sequence datasets. It inherited most features in [OpenMixup](https://github.com/Westlake-AI/openmixup).
-* OpenBioSeq v0.1.0 is initialized.
 
 ## Introduction
 
@@ -17,19 +12,8 @@ The main branch works with **PyTorch 1.8** (required by some self-supervised met
 
 ### What does this repo do?
 
-Learning useful bio-sequence representation efficiently facilitates various downstream tasks in biological and chemical fields. This repo focuses on supervised and self-supervised bio-sequence representation learning and is named `OpenBioSeq`.
+This is the official implementation of the paper **Acoustic inspired brain-to-sentence decoder for logosyllabic language** based on the code base OpenBioSeq.
 
-### Major features
-
-This repo will be continued to update in 2022! Please watch us for latest update!
-
-## Change Log
-
-Please refer to [CHANGELOG.md](docs/CHANGELOG.md) for details and release history.
-
-[2022-06-09] `OpenBioSeq` v0.1.1 is released.
-
-[2022-05-24] `OpenBioSeq` v0.1.0 is initialized.
 
 ## Installation
 
