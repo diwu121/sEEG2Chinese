@@ -8,8 +8,6 @@
 
 The main branch works with **PyTorch 1.8** (required by some self-supervised methods) or higher (we recommend **PyTorch 1.12**). You can still use **PyTorch 1.6** for most methods.
 
-`OpenBioSeq` is an open-source supervised and self-supervised bio-sequence representation learning toolbox based on PyTorch. `OpenBioSeq` supports popular backbones, pre-training methods, and various features.
-
 ### What does this repo do?
 
 This is the official implementation of the paper **Acoustic inspired brain-to-sentence decoder for logosyllabic language** based on the code base OpenBioSeq.
@@ -39,6 +37,8 @@ Please see [Getting Started](docs/GETTING_STARTED.md) for the basic usage of Ope
 bash tools/dist_train.sh ${CONFIG_FILE} ${GPUS} [optional arguments]
 ```
 Then, please see [tutorials](docs/tutorials) for more tech details (based on MMClassification).
+
+CONFIG_FILE for training prediction models of syllable components (initial, tone, and final) are located in configs/benchmarks/classification
 
 ## License
 
