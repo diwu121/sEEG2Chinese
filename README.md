@@ -30,7 +30,7 @@ python setup.py develop
 
 Please refer to [INSTALL.md](docs/INSTALL.md) for detailed installation instructions and dataset preparation.
 
-## Get Started
+## Training Syllable Decoders
 
 Please see [Getting Started](docs/GETTING_STARTED.md) for the basic usage of OpenBioSeq (based on OpenMixup and MMSelfSup). As an example, you can start a multiple GPUs training with a certain `CONFIG_FILE` using the following script: 
 ```shell
