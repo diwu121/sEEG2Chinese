@@ -24,7 +24,7 @@ model = dict(
 )
 
 # data
-data_root = '/usr/data/DATA/EEG_SPEECH/sub1/initial/'
+data_root = './'
 data = dict(
     train=dict(
         data_source=dict(
