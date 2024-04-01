@@ -28,7 +28,9 @@ cd OpenBioSeq
 python setup.py develop
 ```
 
-Please refer to [INSTALL.md](docs/INSTALL.md) for detailed installation instructions and dataset preparation.
+Please refer to [INSTALL.md](docs/INSTALL.md) for detailed installation instructions and dataset preparation. 
+
+Installation from scratch typically takes less than 2 hours.
 
 ## Training Syllable Decoders
 
